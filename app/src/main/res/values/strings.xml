@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">InfGra</string>
+    <string name="nombre_de_usuario">Nombre de Usuario</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="button_text">LOGIN</string>
+    <string name="no_tienes_cuenta">"No tienes cuenta?,  "</string>
+    <string name="crea_una_aqui">Crea una aquí..</string>
+    <string name="correo">Correo</string>
+    <string name="nombre">Nombre</string>
+    <string name="usuario">Usuario</string>
+    <string name="confirme_contrasena">Confirme Contraseña</string>
+    <string name="unete">Únete</string>
+    <string name="title_crear_cuenta">Crear Cuenta</string>
+    <string name="masha_oso_cardview">Masha Oso</string>
+    <string name="hace_cardview">Hace</string>
+    <string name="dias_cardview">" 4 dias"</string>
+    <string name="me_gusta_cardview">10 me gusta</string>
+</resources>
